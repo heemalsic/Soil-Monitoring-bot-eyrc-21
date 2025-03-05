@@ -8,9 +8,14 @@ The brain of the bot was powered by an FPGA board that controls its sensors, act
 
 ![](SM%231153_Task3A/SM%231153_Task3A.jpeg)
 
+### Test video
+
+[Link](https://www.youtube.com/watch?v=mN47v0RoKDc)
+
 ### Final image of the robot
 
 <img width="407" alt="image" src="https://user-images.githubusercontent.com/88222914/156010775-a73febb8-10d0-45f8-a8ae-cda05bcacfdd.png">
+
 
 ### Hardware Used 
 - De0-Nano board
