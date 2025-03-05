@@ -8,9 +8,10 @@ The brain of the bot was powered by an FPGA board that controls its sensors, act
 
 ![](SM%231153_Task3A/SM%231153_Task3A.jpeg)
 
-### Test video
+### Test video (Click on Image)
 
-[Link](https://www.youtube.com/watch?v=mN47v0RoKDc)
+[![Watch the video](https://github.com/heemalsic/Soil-Monitoring-bot-eyrc-21/blob/main/vid.png)](https://www.youtube.com/watch?v=mN47v0RoKDc){:target="_blank"}
+[Link](https://www.youtube.com/watch?v=mN47v0RoKDc){:target="_blank"}
 
 ### Final image of the robot
 
